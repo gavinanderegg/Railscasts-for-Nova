@@ -1,0 +1,8 @@
+{
+    "identifier": "ca.anderegg.Railscasts",
+    "name": "Railscasts",
+    "organization": "anderegg.ca",
+    "description": "A Railscasts theme based on Rob Carruthers version.",
+    "version": "1.0",
+    "categories": ["themes"]
+}
